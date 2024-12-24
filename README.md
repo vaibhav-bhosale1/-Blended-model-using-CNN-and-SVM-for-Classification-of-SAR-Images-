@@ -14,9 +14,9 @@
 - **Classes:** Seven military objects (`2S1`, `BRDM-2`, `BTR-60`, `D7`, `T72`, `ZIL 131`, `ZSU-234`)  
 - **Training/Test Split:** 80:20 (`3106 training`, `781 testing`)  
 - **Resolution:** 100x100 pixels
-- ![SAR Image Classification Workflow](path/to/your/image.png)
+- ![SAR Image Classification Workflow](https://github.com/vaibhav-bhosale1/-Blended-model-using-CNN-and-SVM-for-Classification-of-SAR-Images-/blob/2fcfff4af3f2462af726a5908497585374df1021/image.png)
 
-*Figure: n*
+*Figure: DATASET IMAGES*
 
 ## Data Preprocessing
 
